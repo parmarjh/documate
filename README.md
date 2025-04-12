@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/986d72c6-8370-4b4b-a63e-eafa72adae2e)
 ### Submission for Aria &amp; Allegro Multimodal Hackathon
-Discover the Power of Documate
+Discover the Power of Documate 
 With just a click, this Chrome extension automatically organizes, compiles, and documents everything you read online. Effortlessly track and manage your digital content, ensuring no valuable information is ever lost. 
 
 ## Problem it solves
